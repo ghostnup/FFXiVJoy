@@ -3,3 +3,9 @@
 ################################################################################
 
 /bin/Release/app.publish
+/bin/Release
+/.vs/FFXiVJoy/v14
+/app.config
+/obj/Release
+/packages
+/Module/oXInput.vb
